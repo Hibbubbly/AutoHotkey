@@ -21,7 +21,7 @@ return
 
 /* COMMENTS
 currently uses NumpadSub to toggle holding LShift
-$ allows script to be toggled by the the same key it sends
+$ allows script to be toggled by the same key it sends
 * wildcard allows for toggle press regardless of modifier 
 e.g. LShift+1 sends ! which will not toggle without this
 */
